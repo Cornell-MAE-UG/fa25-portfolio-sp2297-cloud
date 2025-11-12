@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sara Pedraja
 description              : Sara Pedraja - Projects and CV 
-baseurl                  : "fa25-portfolio-sp2297-cloud" # Set this to your repo name 
+baseurl                  : "sp2297-cloud" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
