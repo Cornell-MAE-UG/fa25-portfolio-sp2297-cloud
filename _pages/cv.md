@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Pedraja, Sara - Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:sp2297@cornell.edu) | | | **Phone:** +7864681581
