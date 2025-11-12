@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Sara Pedraja - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [netID@cornell.edu](mailto:sp2297@cornell.edu) | | | **Phone:** +7864681581
 
 ---
 
@@ -20,11 +20,15 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+  **Miami Dade College**
+  *Associates of Arts*
+  Graduation: May, 2023
+
+  **Mater Academy Performing Arts**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2023
 
 ---
 
@@ -36,35 +40,29 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Cornell Autonomous Bicycle**:  
+  *Made a fully autonomous bicycle with a team]*  
+  - Lead the Mechanical Team with upkeep of the bike 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Cornell Autonomous Motions**:  
+  - *Founded the team to work on Human-Computer Interactions*  
+  - Developing an autonomous dog from scratch 
+
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **ControlsTech - Full Time; Seasonal 
+  - August, 2023 - current 
+  - Help out on site with mechanical troubleshooting of CNC machines.
+  - Help with budgeting while I am at college.
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Full Team Lead of Cornell Autonomous Motions 
+- Mentor for Kessler Scholars
 
 ---
 
