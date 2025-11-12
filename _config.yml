@@ -13,8 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sara Pedraja
 description              : Sara Pedraja - Projects and CV 
-url: "https://sp2297-cloud.github.io"
-baseurl: "/fa25-portfolio-sp2297-cloud"
+baseurl                  : "" # Set this to your repo name
 
 
 # Theme and Style
