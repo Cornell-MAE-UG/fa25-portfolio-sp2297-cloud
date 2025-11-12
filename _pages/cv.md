@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Pedraja, Sara - Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:sp2297@cornell.edu) | | | **Phone:** +7864681581
@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in design. Passionate about robotics, prosthetics, and rollercoasters; and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: May, 2027
+  GPA: 3.3/4.0 | Graduation: May, 2027
 
   **Miami Dade College**
   *Associates of Arts*
